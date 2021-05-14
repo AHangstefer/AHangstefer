@@ -1,4 +1,4 @@
-WElCOME 👋🌻 <br>
+WELCOME 👋🌻 <br>
 Hi, I'm Anna! I'm enjoying meshing my love of art and web development together <br>
 
 Python | JavaScript | CSS | HTML | Node <br>
