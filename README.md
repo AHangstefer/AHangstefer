@@ -1,7 +1,7 @@
 WELCOME 👋🌻 <br>
 Hi, I'm Anna! I'm enjoying meshing my love of art and web development together <br>
 
-Python | JavaScript | CSS | HTML | Node <br>
+Python | JavaScript | CSS | HTML | Node | React <br>
 
 📚 Always looking to learn something new <br>
 🕉  Yogi for 9 years, instructor for 1 <br>
